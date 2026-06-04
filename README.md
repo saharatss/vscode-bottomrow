@@ -2,7 +2,9 @@
 
 Bottom Row is a Visual Studio Code extension that displays the last line of the current file directly inside the editor while you scroll.
 
-Unlike the status bar, the last line is rendered as an inline decoration near the bottom of the visible editor area, making it easy to keep track of how a file ends without scrolling to the bottom.
+It was initially designed for log-tracking tasks, where keeping the newest visible line in view is more useful than repeatedly jumping to the end of the file.
+
+Unlike the status bar, the last line is rendered as an inline decoration near the bottom of the visible editor area, making it easy to monitor how a log or file ends without scrolling all the way down.
 
 ## Features
 

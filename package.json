@@ -1,7 +1,7 @@
 {
   "name": "bottomrow",
   "displayName": "BottomRow",
-  "description": "",
+  "description": "Displays the last line near the bottom of the editor for faster log monitoring.",
   "version": "0.0.1",
   "publisher": "saharatss",
   "engines": {
